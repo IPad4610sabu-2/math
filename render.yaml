@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-tangolevel
+    name: IPad4610-kaizou
     env: python
     region: Oregon
     plan: free
